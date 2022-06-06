@@ -1,7 +1,13 @@
-<!--<h3 align="center">A passionate frontend developer from México</h3>-->
+<!--<h3 align="center">A passionate frontend developer from México</h3>
+https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif
+<div style="padding:55px;background-color:#d3d3d3;">dd</div>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" style="max-width:5px !important;max-height:5px !important;">
+-->
+### Hi there 👋  
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### A passionate frontend developer from México
+
+
+#### A passionate frontend developer from México 💻
 
 - 🌱 I'm specializing in frontend development.
 - 💪🏼 I'm currently studying to specialize in: **React.js**.
