@@ -27,7 +27,7 @@ https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif
   </summary>
 <h3 align="center">
   <a href="https://github.com/Tono2007">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tono2007&hide=contribs,issues&count_private=true&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tono2007&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/Tono2007">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tono2007&langs_count=12&layout=compact" />
