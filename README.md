@@ -22,7 +22,7 @@ https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif
 
 
 
-<details>
+<details open>
   <summary>📈 My GitHub Stats: 
   </summary>
 <h3 align="center">
