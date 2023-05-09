@@ -47,7 +47,7 @@ https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif
 </details>
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Tono2007.Tono2007)
+![visitor badge](https://komarev.com/ghpvc/?username=Tono2007)
 [![Website](https://img.shields.io/website?label=antonioayola.netlify.app&url=https%3A%2F%2Fantonioayola.netlify.app%2F)](https://antonioayola.netlify.app/)&nbsp;
 ![Website](https://img.shields.io/github/followers/Tono2007?style=social)
 
